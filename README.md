@@ -1,4 +1,2 @@
 # Interpolation
-Newton and Lagrange interpolation program
-
-Code language: Java
+Newton and Lagrange interpolation program in `Java`
