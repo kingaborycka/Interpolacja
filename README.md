@@ -1,2 +1,2 @@
 # Interpolation
-Newton and Lagrange interpolation program in #JAVA
+Newton and Lagrange interpolation program in JAVA
